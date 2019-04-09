@@ -1,0 +1,31 @@
+{
+  "name": "react-native-simple-metronome",
+  "version": "1.0.0",
+  "description": "Simple metronome implementation on Android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Conrador/react-native-simple-metronome.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "mobile",
+    "metronome",
+    "react",
+    "react-native-component"
+  ],
+  "author": "Konrad Jagłowski",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Conrador/react-native-simple-metronome/issues"
+  },
+  "homepage": "https://github.com/Conrador/react-native-simple-metronome#readme"
+}
